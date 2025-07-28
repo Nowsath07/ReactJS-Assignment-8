@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.editable {
+  background-color: #f9f9f9;
+}
